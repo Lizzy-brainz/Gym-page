@@ -1,0 +1,301 @@
+@media screen and (max-width:320px){
+    .navbar-toggler-icon{
+        margin-left: -55rem!important;
+        margin-top: -2rem;
+    }
+    .hero-sub-heading{
+        font-size: 1rem;
+        font-weight: 400;
+    }
+    .hero-large-heading{
+        font-size: 2rem;
+        width: 200%;
+        margin-left: -2rem;
+        letter-spacing: 1px;
+    }
+    .section-program-heading{
+        font-size: 2rem;
+        font-weight: 500;
+    }
+    .color-bg{
+        height: 9rem;
+        width: 15rem;  
+    }
+    .arrow{
+        font-size: 5rem;
+        padding: 1.5rem;
+    }
+    .section-program-sub-heading{
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    .margin{
+        margin-bottom: 3rem;
+    }
+    .no-margin{
+        margin-top: -2rem;
+    }
+    .member-heading{
+        font-size: 1.5rem;
+        width: 150%;
+        margin-left: -5rem;
+    }
+    .member-btn{
+        margin-top: 35rem;
+    }
+    .member-paragraph{
+        margin-bottom: 7rem;
+    }
+    .expert-col{
+        height: 65rem;
+        width: 25rem;
+    }
+    .expert-trainers{
+        height: 20rem;
+        width: 20rem;
+    }
+    .trainer-text-box{
+        padding: 1rem;
+    }
+    .trainer-text{
+        font-size: 1.5rem;
+        font-weight: 400;
+    }
+    .text-black{
+        font-size: 1.5rem;
+    }
+    .section-contact{
+        padding: 10rem 0;
+    }
+    .table{
+        display: none;
+    }
+    input::placeholder,.text-area::placeholder {
+        font-size: 1.5rem;
+    }
+    .form-control {
+        margin-left: .8rem;
+        padding: 2rem 0;
+        width: 90%;
+    }
+    .text-area {
+        margin-left: 1rem;
+    }
+    .classe-segment{
+        height: 10rem;
+        width: 33rem;
+        margin-left: -5rem;
+    }
+    .class-arrow{
+        font-size: 3rem;
+        margin-left: -8rem;
+        }
+        .class-text{
+            font-size: 1.5rem;
+            font-weight: 400;
+        }
+}
+
+@media screen and (max-width: 480px){
+    .hero-text-box{
+        top: 50%;
+    }
+    .hero-sub-heading{
+        font-size: 1.3rem;
+    }
+    .hero-large-heading{
+        font-size: 2rem;
+        width: 190%;
+        margin-left: -6rem; 
+    }
+    .hero-btn{
+        padding: 1rem 2rem;
+    font-size: 1rem;
+    }
+    .fitness-row{
+        padding: 0 2rem;
+    }
+    .member-heading{
+        font-size: 2rem;
+    }
+    .section-classes{
+        padding: 15rem 0;
+    }
+    .schedule-item{
+        font-size: 1rem;
+    }
+    .expert-row{
+        padding: 2rem 3rem;
+    }
+    .send-btn1 {
+        padding: 1.5rem 5rem;
+        font-size: 2rem;
+    }
+    .classe-segment{
+        height: 10rem;
+        width: 43rem;
+        margin-left: -2rem;
+    }
+    .class-arrow{
+        font-size: 3rem;
+        margin-left: -8rem;
+        }
+        .class-text{
+            font-size: 2rem;
+            font-weight: 400;
+        }
+        .text-black{
+            font-size: 1.5rem;
+        }
+        .section-contact{
+            padding: 10rem 0;
+        }
+        input::placeholder,.text-area::placeholder {
+            font-size: 1.5rem;
+        }
+        .form-control {
+            margin-left: .8rem;
+            padding: 2rem 0;
+            width: 90%;
+        }
+        .text-area {
+            margin-left: 2rem;
+        }
+        .table{
+margin-left: -6rem;
+        }
+        td{
+            padding: 1rem!important;
+        }
+        .logo{
+            display: none;
+        }
+        .navbar-toggler-icon{
+            margin-left: -8rem;
+        }
+}
+@media screen and (max-width: 768px){
+    .hero-large-heading{
+        font-size: 2rem;
+        width: 190%;
+        letter-spacing: 0;
+    }
+    .color-bg{
+        height: 9rem;
+        width: 15rem;  
+    }
+    .arrow{
+        font-size: 5rem;
+        padding: 1.5rem;
+    }
+    td{
+        padding: 3rem!important;
+    }
+    .expert-col{
+        margin: 0 auto;
+    }
+    .logo{
+        display: none;
+    }
+    .navbar-toggler-icon{
+        margin-left: -12rem;
+        margin-top: -2rem;
+    }
+}
+@media screen and (max-width: 900px){
+    .navbar-toggler-icon{
+        margin-left: -10rem;
+        margin-top: -2rem;
+    }
+    .logo{
+        margin-left: 2rem!important;
+    }
+td{
+    padding: 1rem!important;
+}
+.table{
+    margin-left: -5rem;
+}
+.auto{
+    margin: 0 auto;
+}
+}
+
+@media screen and (max-width:1024px){
+    .nav-link{
+        font-size: 1rem;
+    }
+    .navbar-nav{
+        margin-left: -1rem;
+
+    }
+    .logo{
+        margin-left: -1.5rem;
+    }
+    .signup-btn{
+        margin-right: 10rem;
+        font-size: 1.3rem;
+        padding: 1rem 5rem;
+        }
+    .hero-large-heading{
+        font-size: 4rem;
+        width: 190%;
+        margin-left: -5rem; 
+        margin-bottom: 10rem;
+    }
+    
+    .expert-col{
+        height: 65rem;
+        width: 30rem;
+    }
+    .expert-trainers{
+        height: 20rem;
+        width: 23rem;
+    }
+    .auto{
+        margin: 0 auto;
+    }
+    .trainer-paragraph{
+        font-size: 2rem;
+    }
+    .color-bg{
+        height: 9rem;
+        width: 15rem;  
+    }
+    .arrow{
+        font-size: 5rem;
+        padding: 1.5rem;
+    }
+    .member-heading{
+        font-size: 3rem;
+    }
+    .class-trainer{
+        width: 70%;
+        height: 35rem;
+    }
+    td{
+        padding: 4rem;
+    }
+}
+@media screen and (max-width: 375px){
+    .hero-sub-heading{
+        font-size: 1.3rem;
+        font-weight: 200;
+    }
+    .hero-large-heading{
+        font-size: 3rem;
+        width: 210%;
+        margin-left: -1rem;    
+    }
+}
+@media screen and (max-width: 414px){
+    .hero-large-heading{
+        font-size: 2.5rem;
+        width: 210%;
+        margin-left: -6rem; 
+    }
+    .hero-sub-heading{
+        font-size: 1.3rem;
+        font-weight: 200;
+    }
+}
